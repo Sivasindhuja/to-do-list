@@ -1,6 +1,6 @@
 ---
 
-````md
+````
 # To-Do List App (Vanilla JavaScript)
 
 A simple and clean **To-Do List application** built using **HTML, CSS, and Vanilla JavaScript**.  
