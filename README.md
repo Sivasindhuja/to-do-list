@@ -1,6 +1,4 @@
 
-
-````
 # To-Do List App (Vanilla JavaScript)
 
 A simple and clean **To-Do List application** built using **HTML, CSS, and Vanilla JavaScript**.  
@@ -86,6 +84,3 @@ This project was rebuilt from scratch to practice:
 * Event handling
 * State-driven UI development
 * Working with `localStorage`
-
-
-```
