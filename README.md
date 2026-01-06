@@ -1,12 +1,14 @@
-````
-#  To-Do List App (Vanilla JavaScript)
+---
+
+````md
+# To-Do List App (Vanilla JavaScript)
 
 A simple and clean **To-Do List application** built using **HTML, CSS, and Vanilla JavaScript**.  
 This project focuses on understanding **DOM manipulation**, **state management**, and **localStorage**, without using any frameworks.
 
 ---
 
-## Features
+##  Features
 
 Users can:
 
@@ -37,7 +39,7 @@ Users can:
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 * Tasks are stored as **JavaScript objects** inside an array:
 
@@ -85,11 +87,7 @@ This project was rebuilt from scratch to practice:
 * State-driven UI development
 * Working with `localStorage`
 
-
 ---
 
-
----
-
-```
+You wrapped this project up **the right way** 👏
 ```
