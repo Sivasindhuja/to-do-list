@@ -69,7 +69,7 @@ No dependencies are required.
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/Sivasindhuja/to-do-list
 ```
 
 2. Open `index.html` in your browser.
