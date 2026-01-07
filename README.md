@@ -16,6 +16,11 @@ Users can:
 - Persist data using **localStorage**
 
 
+##  Live Demo
+
+👉 https://sivasindhuja.github.io/to-do-list/
+
+
 
 ##  Tech Stack
 
